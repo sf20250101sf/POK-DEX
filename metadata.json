@@ -1,0 +1,6 @@
+{
+  "name": "POKÉDEX-OS",
+  "description": "An advanced cyber-tech digital index tracking Pokémon species and rare shiny variants across Kanto, Johto, and Hoenn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
